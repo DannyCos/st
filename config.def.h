@@ -9,6 +9,8 @@
 static char *font = "Hack Nerd Font:style=Regular:size=14";
 static int borderpx = 16;
 
+float alpha = 0.89;
+
 /*
  * What program is execed by st depends of these precedence rules:
  * 1: program passed with -e
